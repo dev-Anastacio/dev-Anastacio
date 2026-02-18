@@ -113,7 +113,6 @@ Aluno destaque por desempenho acadêmico. Desenvolvimento de projeto de website 
 
 `Next.js` `Ruby on Rails` `PostgreSQL` `Autenticação` `CRUD completo`
 
-
 ---
 
 ### 🛒 E-commerce API
@@ -134,8 +133,8 @@ Meu objetivo é ser um desenvolvedor que não só entrega features — entrega s
 ## 📊 Métricas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-Anastacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Anastacio&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-xi-virid-99.vercel.app/api?username=dev-Anastacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-xi-virid-99.vercel.app/api/top-langs/?username=dev-Anastacio&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
