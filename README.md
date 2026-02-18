@@ -5,9 +5,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Ruby+on+Rails+%2B+React+%2F+Next.js;Estagiário+na+UFC;Construindo+produtos+com+impacto+real" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Ruby+on+Rails+%2B+React+%2F+Next.js;Estagi%C3%A1rio+na+UFC;Construindo+produtos+com+impacto+real" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -136,8 +134,8 @@ Meu objetivo é ser um desenvolvedor que não só entrega features — entrega s
 ## 📊 Métricas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-Anastacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Anastacio&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-Anastacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Anastacio&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
@@ -163,8 +161,5 @@ Meu objetivo é ser um desenvolvedor que não só entrega features — entrega s
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer"/>
-</div>
->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer"/>
 </div>
